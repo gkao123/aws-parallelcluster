@@ -430,7 +430,7 @@ AVAILABILITY_ZONE_OVERRIDES = {
     # c5.xlarge is not supported in us-east-1e
     # FSx Lustre file system creation is currently not supported for us-east-1e
     # m6g.xlarge is not supported in us-east-1c or us-east-1e
-    "us-east-1": ["us-east-1a", "us-east-1b", "us-east-1d", "us-east-1f"],
+    "us-east-1": ["us-east-1b", "us-east-1d", "us-east-1f"],
     # m6g.xlarge is not supported in us-east-2a
     "us-east-2": ["us-east-2b", "us-east-2c"],
     # c4.xlarge is not supported in us-west-2d
